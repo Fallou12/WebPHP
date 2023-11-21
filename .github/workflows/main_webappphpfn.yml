@@ -63,4 +63,4 @@ jobs:
           app-name: 'WebAppPhpFN'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_86223606CD9941C597C283429D0C7AD5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EBF804C614B44D9FAB395653511A3437 }}
